@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <array name="list_colors">
+        <item name="Black">#ff000000</item>
+        <item name="Blue">#ff0000ff</item>
+        <item name="Cyan">#ff00ffff</item>
+        <item name="Dark Gray">#ff444444</item>
+        <item name="Gray">#ff888888</item>
+        <item name="Green"></item>
+    </array>
+</resources>
