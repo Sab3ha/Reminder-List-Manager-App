@@ -1,1 +1,1 @@
-# 370Fall23Sec131Team1
+# Reminder List Manager App
